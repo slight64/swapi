@@ -1,0 +1,16 @@
+.error-indicator {
+  margin: 0 auto;
+
+}
+
+.error-indicator img {
+  display: block;
+  margin: 0 auto;
+}
+.error-indicator span {
+  margin-top: 25px;
+font-size: 26px;
+  font-weight: 700;
+  color: brown;
+
+}
